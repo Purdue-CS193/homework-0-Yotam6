@@ -1,4 +1,7 @@
 ## Welcome to GitHub Pages
+#Yotam Ainom's First CS193 Homework
+- I appreciate all of the fast responses from the TAs/classmates whenever I have questions.
+- I like the classtimes and the format of the way we are allowed time to accomodate ourselves with the tools
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
